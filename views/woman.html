@@ -1,0 +1,25 @@
+			
+			<div fullscreen class="container-full-screen" >
+				<figure class="figure-center">
+					<div class="img-center" ng-style="{ 'background-image' : 'url({{top_image.src}})' }"></div>								
+				</figure>
+				<div class="shadow-in-container"></div>						
+			</div>
+			
+			<div fullscreen class="container-full-screen-top"></div>
+			
+			<div class="description">
+				<p class="text-center" ng-repeat="description in descriptions">
+					<strong>{{description}}</strong>
+				</p>
+			</div>
+
+			<div class="container-full-w">
+				
+				<div class="row no-margin">
+					<div class="col-md-6 col-sm-12 padding-30" ng-repeat="img in images">
+						<img class="img-responsive shadow translate" onViewport="translate-show" ng-src="{{img.src}}">
+					</div>
+				</div>
+				
+			</div>

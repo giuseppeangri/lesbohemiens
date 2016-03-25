@@ -1,0 +1,34 @@
+
+			<div class="storelocator-back container-full-w">
+				
+				<div class="row no-margin">
+					
+					<div fullscreen="100" class="stores">
+						
+						<div class="selector">
+							<p>Cerca lo store più vicino a te</p>
+							<select class="select" ng-options="r.id as r.name for r in province | orderBy:'name' | filter:{show:true}" ng-model="provincia.id" ng-change="StoreLocatorCtrl.getStoresByProvince()">
+								<option value="">Seleziona provincia</option>
+							</select>
+						</div>
+									
+						<div class="results" ng-show="stores.length">
+							<ul>
+								<li ng-repeat="s in stores" ng-click="StoreLocatorCtrl.openInfoWindow($event, s.marker)">
+									<span class="text-bold">{{s.name}}</span>
+									<br>
+									{{s.address}}
+									<br>
+									{{s.city}}
+								</li>
+							</ul>
+						</div>
+						
+					</div>
+					
+					<div class="col-md-12 hidden-xs" >
+						<div fullscreen="100" class="" id="map-canvas"></div>
+					</div>
+				</div>
+				
+			</div>
