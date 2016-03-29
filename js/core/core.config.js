@@ -26,6 +26,14 @@
 				controller		: 'HomeController',
 				controllerAs	: 'HomeCtrl'
 			})
+			.when('/man/ss15', {
+				templateUrl 	: baseUrl + 'man.html',
+				controller		: 'ManController',
+				controllerAs	: 'ManCtrl',
+				resolve 			: {
+					collection	: function() { return 'ss15'; }
+				}
+			})
 			.when('/man/fw1516', {
 				templateUrl 	: baseUrl + 'man.html',
 				controller		: 'ManController',
@@ -34,10 +42,18 @@
 					collection	: function() { return 'fw1516'; }
 				}
 			})
-			.when('/man/ss15', {
+			.when('/man/ss16', {
 				templateUrl 	: baseUrl + 'man.html',
 				controller		: 'ManController',
 				controllerAs	: 'ManCtrl',
+				resolve 			: {
+					collection	: function() { return 'ss16'; }
+				}
+			})
+			.when('/woman/ss15', {
+				templateUrl 	: baseUrl + 'woman.html',
+				controller		: 'WomanController',
+				controllerAs	: 'WomanCtrl',
 				resolve 			: {
 					collection	: function() { return 'ss15'; }
 				}
@@ -50,12 +66,12 @@
 					collection	: function() { return 'fw1516'; }
 				}
 			})
-			.when('/woman/ss15', {
+			.when('/woman/ss16', {
 				templateUrl 	: baseUrl + 'woman.html',
 				controller		: 'WomanController',
 				controllerAs	: 'WomanCtrl',
 				resolve 			: {
-					collection	: function() { return 'ss15'; }
+					collection	: function() { return 'ss16'; }
 				}
 			})
 			.when('/storelocator', {

@@ -12,11 +12,11 @@
 		
 		var mc = this;
 		
-		mc.inizialize = inizialize;
-		mc.isMobile = isMobile;
-		mc.showMenu = showMenu;
-		mc.clickMenu = clickMenu;
-		mc.showSubMenu = showSubMenu;
+		mc.inizialize        = inizialize;
+		mc.isMobile          = isMobile;
+		mc.showMenu          = showMenu;
+		mc.clickMenu         = clickMenu;
+		mc.showSubMenu       = showSubMenu;
 		mc.showSubMenuMobile = showSubMenuMobile;
 		
 		mc.inizialize();
@@ -35,6 +35,10 @@
 					url 	: '',
 					submenu : [
 						{
+							name : 'Spring Summer 16',
+							url : 'man/ss16'
+						},
+						{
 							name : 'Fall Winter 15/16',
 							url : 'man/fw1516'
 						},
@@ -48,6 +52,10 @@
 					name	: 'Woman',
 					url 	: '',
 					submenu : [
+						{
+							name : 'Spring Summer 16',
+							url : 'woman/ss16'
+						},
 						{
 							name : 'Fall Winter 15/16',
 							url : 'woman/fw1516'
