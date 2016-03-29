@@ -114,9 +114,9 @@
 			<p class="right-foot">
 				<a href="home">Home</a>
 				<span style="font-size: smaller;"> • </span> 
-				<a href="man/fw1516">Man</a> 
+				<a href="man/ss16">Man</a> 
 				<span style="font-size: smaller;"> • </span> 
-				<a href="woman/fw1516">Woman</a> 
+				<a href="woman/ss16">Woman</a> 
 				<span style="font-size: smaller;"> • </span> 
 				<a href="storelocator">Store Locator</a> 
 				<span style="font-size: smaller;"> • </span> 
