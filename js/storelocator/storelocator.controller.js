@@ -12,12 +12,12 @@
 		
 		var mc = this;
 
-		mc.inizialize = inizialize;
-		mc.getAllStores = getAllStores;
+		mc.inizialize          = inizialize;
+		mc.getAllStores        = getAllStores;
 		mc.getStoresByProvince = getStoresByProvince;
-    mc.createMarker = createMarker;
-    mc.getGeoCode = getGeoCode;
-    mc.openInfoWindow = openInfoWindow;
+    mc.createMarker      = createMarker;
+    mc.getGeoCode        = getGeoCode;
+    mc.openInfoWindow    = openInfoWindow;
     
     mc.inizialize();
     
@@ -50,7 +50,7 @@
 	    $scope.map = new google.maps.Map(document.getElementById('map-canvas'), $scope.mapOptions);
 	       
 	    $scope.infoWindow = new google.maps.InfoWindow();
-	    $scope.icon = 'http://www.giuseppeangri.com/lb/v0/media/pin-lb-map.png';
+	    $scope.icon = 'media/pin-lb-map.png';
 	    
 	    mc.getAllStores();
 	    
