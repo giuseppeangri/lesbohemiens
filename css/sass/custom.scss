@@ -276,34 +276,34 @@ figure.figure-center {
 	.submenu {
 		opacity: 1;
 		background-color: rgba(222, 220, 220, 0.4);
-		height: 2*$main-menumobileitem-h;
+		max-height: 1000px;
 		
 		&.ng-enter {
-			transition-property: opacity, background-color, height;
+			transition-property: opacity, background-color, max-height;
 		  transition-duration: 0.5s;
 		}
 		&.ng-leave {
-			transition: opacity 0.2s linear, background-color 0.2s linear, height 0.3s linear 0.2s;
+			transition: opacity 0.2s linear, background-color 0.2s linear, max-height 0.3s linear 0.2s;
 		}
 		&.ng-enter {
 			opacity: 0;
 			background-color: rgba(222, 220, 220, 0);
-			height: 0px;
+			max-height: 0px;
 		}
 		&.ng-enter.ng-enter-active {
 			opacity: 1;
 			background-color: rgba(222, 220, 220, 0.4);
-			height: 2*$main-menumobileitem-h;
+			max-height: 1000px;
 		}
 		&.ng-leave {
 			opacity: 1;
 			background-color: rgba(222, 220, 220, 0.4);
-			height: 2*$main-menumobileitem-h;
+			max-height: 1000px;
 		}
 		&.ng-leave.ng-leave-active {
 			opacity: 0;
 			background-color: rgba(222, 220, 220, 0);
-			height: 0px;
+			max-height: 0px;
 		}
 		
 	}
