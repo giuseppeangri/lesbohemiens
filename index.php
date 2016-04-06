@@ -31,7 +31,11 @@
 		<script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
 		<script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
 		<![endif]-->
-						
+		
+		<script type="text/javascript"
+      src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBdThfPJCWB0XXENvzwHNI5YSGicMboub8">
+    </script>
+				
 	</head>
 
 	<body ng-controller="MainController as MainCtrl">
@@ -123,14 +127,14 @@
 				<a href="mailto:info@lesbohemiens.it">Contact Us</a></p>
 		</div>
 						
-		<script src="vendor/angularjs/1.3.16/angular.min.js"></script>
-		<script src="vendor/angularjs/1.3.16/angular-resource.min.js"></script>
-		<script src="vendor/angularjs/1.3.16/angular-route.min.js"></script>
-		<script src="vendor/angularjs/1.3.16/angular-animate.min.js"></script>
-		<script src="vendor/angularjs/1.3.16/angular-touch.min.js"></script>
-		<script src="vendor/angularjs/1.3.16/i18n/angular-locale_it-it.js"></script>
-		<script src="vendor/match-media.js"></script>
-		<script src="vendor/ui-bootstrap/ui-bootstrap-custom-0.13.0.min.js"></script>
+		<script src="bower_components/angular/angular.min.js"></script>
+		<script src="bower_components/angular-resource/angular-resource.min.js"></script>
+		<script src="bower_components/angular-route/angular-route.min.js"></script>
+		<script src="bower_components/angular-animate/angular-animate.min.js"></script>
+<!-- 		<script src="vendor/angularjs/1.3.16/angular-touch.min.js"></script> -->
+		<script src="bower_components/angular-i18n/angular-locale_it-it.js"></script>
+		<script src="bower_components/angular-media-queries/match-media.js"></script>
+		<script src="bower_components/angular-bootstrap/ui-bootstrap.min.js"></script>
 		
 		<script src="js/app.module.js"></script>
 		
