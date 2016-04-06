@@ -20,7 +20,7 @@
     <link type="text/plain" rel="author" href="<?php echo $baseUrl ?>humans.txt" />
 				
 		<!-- Bootstrap CSS -->
-		<link href="vendor/bootstrap/3.3.5/css/bootstrap.min.css" rel="stylesheet">
+		<link href="bower_components/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">
 		
 		<!-- Custom CSS -->
 		<link href="css/custom.css" rel="stylesheet">
@@ -131,7 +131,6 @@
 		<script src="bower_components/angular-resource/angular-resource.min.js"></script>
 		<script src="bower_components/angular-route/angular-route.min.js"></script>
 		<script src="bower_components/angular-animate/angular-animate.min.js"></script>
-<!-- 		<script src="vendor/angularjs/1.3.16/angular-touch.min.js"></script> -->
 		<script src="bower_components/angular-i18n/angular-locale_it-it.js"></script>
 		<script src="bower_components/angular-media-queries/match-media.js"></script>
 		<script src="bower_components/angular-bootstrap/ui-bootstrap.min.js"></script>
