@@ -7,14 +7,14 @@
 						
 						<div class="selector">
 							<p>Cerca lo store più vicino a te</p>
-							<select class="select" ng-options="r.id as r.name for r in province | orderBy:'name' | filter:{show:true}" ng-model="provincia.id" ng-change="StoreLocatorCtrl.getStoresByProvince()">
+							<select class="select" ng-options="r.id as r.name for r in provinces | orderBy:'name' | filter:{show:true}" ng-model="province.id" ng-change="StoreLocatorCtrl.getStoresByProvince()">
 								<option value="">Seleziona provincia</option>
 							</select>
 						</div>
 									
-						<div class="results" ng-show="stores.length">
+						<div class="results" ng-show="storesByProvince.length">
 							<ul>
-								<li ng-repeat="s in stores" ng-click="StoreLocatorCtrl.openInfoWindow($event, s.marker)">
+								<li ng-repeat="s in storesByProvince" ng-click="StoreLocatorCtrl.openInfoWindow($event, s.marker)">
 									<span class="text-bold">{{s.name}}</span>
 									<br>
 									{{s.address}}
