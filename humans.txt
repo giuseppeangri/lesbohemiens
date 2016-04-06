@@ -1,0 +1,17 @@
+/* TEAM */
+
+Developer	: Giuseppe Angri
+Email 		: mail@giuseppeangri.com
+Site			: www.giuseppeangri.com
+Location 	: Naples, Italy
+
+Developer & Designer 	: Francesco Luigi La Marca
+Email 								: francesco.lamarca1@gmail.com
+Location 							: Naples, Italy
+
+/* SITE */
+
+Last update : 2016/03/29
+Language		: Italian
+Standards   : HTML5, CSS3
+Components  : AngularJS, PHP
