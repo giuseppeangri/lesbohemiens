@@ -104,14 +104,8 @@
 		</div>
 		
 		<loading />
-					
-		<div ng-if='isRouteLoading && !menu_mobile' fullscreen style="background-color: black; opacity: 0.6;" autoscroll="true"> 
-			<div class="logo-loading" style="height: 140px;">
-				<object class="logo-loading-obj" type="image/svg+xml" data="media/libellulaBianca.svg" style="height: 140px;"></object>
-			</div>
-		</div> 
-								
-		<div ng-if='!isRouteLoading && !menu_mobile' class="main" ng-view autoscroll="true"></div>
+										
+		<div ng-if='!menu_mobile' class="main" ng-view autoscroll="true"></div>
 				
 		<div ng-if='!isRouteLoading && !menu_mobile' class="footer container-full-w">
 			<p class="left-foot">COPYRIGHT © Les Bohémiens  All rights reserved</p>
