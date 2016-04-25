@@ -1,5 +1,149 @@
 [
 	{
+	"name": "Buonshop",
+	"region": "Campania",
+	"province": 63,
+	"city": "Somma Vesuviana",
+	"address": "Via Annunziata 75",
+	"lat": 40.8762091,
+	"lng": 14.4419184
+	},
+	{
+	"name": "D'Anna Positano",
+	"region": "Campania",
+	"province": 65,
+	"city": "Fisciano",
+	"address": "Via del Progresso 68",
+	"lat": 40.6778823,
+	"lng": 14.7613758
+	},
+	{
+	"name": "Four Seasons",
+	"region": "Puglia",
+	"province": 71,
+	"city": "Cerignola",
+	"address": "Corso Roma 51",
+	"lat": 41.2645785,
+	"lng": 15.9005987
+	},
+	{
+	"name": "Galiano",
+	"region": "Campania",
+	"province": 63,
+	"city": "Giugliano",
+	"address": "Via Roma 59",
+	"lat": 40.927175,
+	"lng": 14.2008891
+	},
+	{
+	"name": "Coltorti Boutique",
+	"region": "Marche",
+	"province": 42,
+	"city": "Giugliano",
+	"address": "Piazza della Repubblica 1",
+	"lat": 43.4585312,
+	"lng": 13.2372334
+	},
+	{
+	"name": "D'Anna Donna",
+	"region": "Campania",
+	"province": 65,
+	"city": "Salerno",
+	"address": "Via Dei Mercanti 52",
+	"lat": 40.6789552,
+	"lng": 14.7580537
+	},
+	{
+	"name": "Kikama",
+	"region": "Campania",
+	"province": 63,
+	"city": "Torre Annunziata",
+	"address": "Corso Umberto I 133 - 135",
+	"lat": 40.7584062,
+	"lng": 14.435511
+	},
+	{
+	"name": "Lemon Shop",
+	"region": "Emilia",
+	"province": 39,
+	"city": "Lugo",
+	"address": "Via Francesco Baracca 33",
+	"lat": 44.4180659,
+	"lng": 11.9078046
+	},
+	{
+	"name": "Outside Gallery",
+	"region": "Lazio",
+	"province": 58,
+	"city": "Roma",
+	"address": "Via Augusto Jandolo 9",
+	"lat": 41.8874744,
+	"lng": 12.4755851
+	},
+	{
+	"name": "Rodriquez",
+	"region": "Campania",
+	"province": 63,
+	"city": "Napoli",
+	"address": "Corso Secondigliano 293 - 295",
+	"lat": 40.8904887,
+	"lng": 14.260837
+	},
+	{
+	"name": "Barbisio Factory",
+	"region": "Sicilia",
+	"province": 87,
+	"city": "Catania",
+	"address": "Viale Ionio 69",
+	"lat": 37.5147828,
+	"lng": 15.0988606
+	},
+	{
+	"name": "Bini Silvia Passeggiata",
+	"region": "Toscana",
+	"province": 46,
+	"city": "Viareggio",
+	"address": "Viale Marconi 71",
+	"lat": 43.8757926,
+	"lng": 10.2359665
+	},
+	{
+	"name": "Gentleman Gift",
+	"region": "Calabria",
+	"province": 78,
+	"city": "Cosenza",
+	"address": "Corso Mazzini 10",
+	"lat": 39.2941108,
+	"lng": 16.2535407
+	},
+	{
+	"name": "My Space di Apicella Antonio",
+	"region": "Campania",
+	"province": 63,
+	"city": "Portici",
+	"address": "Via Benvenuto Cellini 44",
+	"lat": 40.8167162,
+	"lng": 14.3368261
+	},
+	{
+	"name": "Stylish Clothes",
+	"region": "Campania",
+	"province": 63,
+	"city": "Napoli",
+	"address": "Viale Dei Pini 15-17",
+	"lat": 40.8475808,
+	"lng": 14.3661907
+	},
+	{
+	"name": "The Dope Factory",
+	"region": "Emilia",
+	"province": 37,
+	"city": "Castel Maggiore",
+	"address": "Via Chiesa 34",
+	"lat": 40.8475808,
+	"lng": 14.3661907
+	},
+	{
 	"name": "Agnetti",
 	"region": "Marche",
 	"province": 43,
@@ -7,15 +151,6 @@
 	"address": "Via Peranzoni 17/A",
 	"lat": 43.323384,
 	"lng": 13.4264366
-	},
-	{
-	"name": "Altamoda Uomo",
-	"region": "Emilia Romagna",
-	"province": 36,
-	"city": "Modena",
-	"address": "Corso Casalgrande 63",
-	"lat": 44.6454318,
-	"lng": 10.9291749
 	},
 	{
 	"name": "Anteprima Altamura",
@@ -27,42 +162,6 @@
 	"lng": 16.5520855
 	},
 	{
-	"name": "Anteprima Bari",
-	"region": "Puglia",
-	"province": 72,
-	"city": "Bari",
-	"address": "Via Abate Gimma 40",
-	"lat": 41.1247479,
-	"lng": 16.870569
-	},
-	{
-	"name": "Check Point",
-	"region": "Lombardia",
-	"province": 20,
-	"city": "Asola",
-	"address": "Via Parma 66",
-	"lat": 45.215653,
-	"lng": 10.419768
-	},
-	{
-	"name": "Check Point",
-	"region": "Lombardia",
-	"province": 20,
-	"city": "Mantova",
-	"address": "Piazza Virgiliana, 16",
-	"lat": 45.1628769,
-	"lng": 10.7933541
-	},
-	{
-	"name": "Check Point",
-	"region": "Lombardia",
-	"province": 17,
-	"city": "Manerbio",
-	"address": "Via Brescia 16",
-	"lat": 45.36203099999999,
-	"lng": 10.145297
-	},
-	{
 	"name": "D'2",
 	"region": "Campania",
 	"province": 65,
@@ -70,15 +169,6 @@
 	"address": "Piazza Sedile di Porta Nova 7",
 	"lat": 40.67784,
 	"lng": 14.76227
-	},
-	{
-	"name": "Di Pierro Brand Store",
-	"region": "Puglia",
-	"province": 73,
-	"city": "Taranto",
-	"address": "Via Berardi 12",
-	"lat": 40.470738,
-	"lng": 17.2430129
 	},
 	{
 	"name": "Di Vincenzo",
@@ -153,38 +243,11 @@
 	"lng": 14.5273867
 	},
 	{
-	"name": "Gruppo Clark",
-	"region": "Lazio",
-	"province": 58,
-	"city": "Roma",
-	"address": "Piazzale della Radio 85",
-	"lat": 41.8701296,
-	"lng": 12.4679318
-	},
-	{
-	"name": "Gruppo Clark",
-	"region": "Lazio",
-	"province": 58,
-	"city": "Monterotondo",
-	"address": "Via Salaria 221 E",
-	"lat": 42.0586715,
-	"lng": 12.5842785
-	},
-	{
-	"name": "Gruppo Clark",
-	"region": "Lazio",
-	"province": 58,
-	"city": "Fiumicino",
-	"address": "Parco Leonardo - Piazza M. Buonarroti 36/47",
-	"lat": 41.7993017,
-	"lng": 12.2954283
-	},
-	{
 	"name": "Inner",
 	"region": "Lombardia",
 	"province": 15,
 	"city": "Milano",
-	"address": "Via Pasquale Paoli, 4",
+	"address": "Via Pasquale Paoli, 1",
 	"lat": 45.450551,
 	"lng": 9.1716458
 	},
@@ -229,7 +292,7 @@
 	"region": "Campania",
 	"province": 63,
 	"city": "Castellammare",
-	"address": "Corso Vittorio Emanuele",
+	"address": "Corso Vittorio Emanuele 90",
 	"lat": 40.6990772,
 	"lng": 14.4827506
 	},
@@ -243,15 +306,6 @@
 	"lng": 14.3314041
 	},
 	{
-	"name": "Niba2A",
-	"region": "Umbria",
-	"province": 54,
-	"city": "Bastia Umbra",
-	"address": "Piazza Mazzini 1-2",
-	"lat": 43.0676612,
-	"lng": 12.5497075
-	},
-	{
 	"name": "Orlando Avellino",
 	"region": "Campania",
 	"province": 64,
@@ -261,15 +315,6 @@
 	"lng": 14.7879811
 	},
 	{
-	"name": "Particolari Semplici",
-	"region": "Campania",
-	"province": 63,
-	"city": "Casoria",
-	"address": "Via Achille Del giudice 40",
-	"lat": 40.8998296,
-	"lng": 14.2833527
-	},
-	{
 	"name": "Strike",
 	"region": "Campania",
 	"province": 63,
@@ -277,15 +322,6 @@
 	"address": "Piazza San Vitale 32/35",
 	"lat": 40.841534,
 	"lng": 14.1998153
-	},
-	{
-	"name": "Sicolo",
-	"region": "Basilicata",
-	"province": 77,
-	"city": "Matera",
-	"address": "Via XX Settembre 43",
-	"lat": 40.6687055,
-	"lng": 16.6060035
 	},
 	{
 	"name": "Traffic Multilab",
@@ -313,5 +349,5 @@
 	"address": "Via Cesare Rosaroll 8",
 	"lat": 40.8543266,
 	"lng": 14.2671336
-	}	
+	}
 ]
