@@ -107,7 +107,7 @@
 										
 		<div ng-if='!menu_mobile' class="main" ng-view autoscroll="true"></div>
 				
-		<div ng-if='!isRouteLoading && !menu_mobile' class="footer container-full-w">
+		<div ng-if='!menu_mobile' class="footer container-full-w">
 			<p class="left-foot">COPYRIGHT © Les Bohémiens  All rights reserved</p>
 			<p class="right-foot">
 				<a href="home">Home</a>
