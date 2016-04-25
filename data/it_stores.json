@@ -1,0 +1,317 @@
+[
+	{
+	"name": "Agnetti",
+	"region": "Marche",
+	"province": 43,
+	"city": "Villa Potenza",
+	"address": "Via Peranzoni 17/A",
+	"lat": 43.323384,
+	"lng": 13.4264366
+	},
+	{
+	"name": "Altamoda Uomo",
+	"region": "Emilia Romagna",
+	"province": 36,
+	"city": "Modena",
+	"address": "Corso Casalgrande 63",
+	"lat": 44.6454318,
+	"lng": 10.9291749
+	},
+	{
+	"name": "Anteprima Altamura",
+	"region": "Puglia",
+	"province": 72,
+	"city": "Altamura",
+	"address": "Piazza Zanardelli 11",
+	"lat": 40.8244195,
+	"lng": 16.5520855
+	},
+	{
+	"name": "Anteprima Bari",
+	"region": "Puglia",
+	"province": 72,
+	"city": "Bari",
+	"address": "Via Abate Gimma 40",
+	"lat": 41.1247479,
+	"lng": 16.870569
+	},
+	{
+	"name": "Check Point",
+	"region": "Lombardia",
+	"province": 20,
+	"city": "Asola",
+	"address": "Via Parma 66",
+	"lat": 45.215653,
+	"lng": 10.419768
+	},
+	{
+	"name": "Check Point",
+	"region": "Lombardia",
+	"province": 20,
+	"city": "Mantova",
+	"address": "Piazza Virgiliana, 16",
+	"lat": 45.1628769,
+	"lng": 10.7933541
+	},
+	{
+	"name": "Check Point",
+	"region": "Lombardia",
+	"province": 17,
+	"city": "Manerbio",
+	"address": "Via Brescia 16",
+	"lat": 45.36203099999999,
+	"lng": 10.145297
+	},
+	{
+	"name": "D'2",
+	"region": "Campania",
+	"province": 65,
+	"city": "Salerno",
+	"address": "Piazza Sedile di Porta Nova 7",
+	"lat": 40.67784,
+	"lng": 14.76227
+	},
+	{
+	"name": "Di Pierro Brand Store",
+	"region": "Puglia",
+	"province": 73,
+	"city": "Taranto",
+	"address": "Via Berardi 12",
+	"lat": 40.470738,
+	"lng": 17.2430129
+	},
+	{
+	"name": "Di Vincenzo",
+	"region": "Campania",
+	"province": 63,
+	"city": "Sant'Anastasia",
+	"address": "Via G.Fortunato 26",
+	"lat": 40.8718811,
+	"lng": 14.3981398
+	},
+	{
+	"name": "Equipe San Marcellino",
+	"region": "Campania",
+	"province": 61,
+	"city": "San Marcellino",
+	"address": "Corso Europa 161 bis",
+	"lat": 40.991677,
+	"lng": 14.128318
+	},
+	{
+	"name": "Face Up",
+	"region": "Campania",
+	"province": 63,
+	"city": "Frattamaggiore",
+	"address": "Via XXXI Maggio",
+	"lat": 40.9427066,
+	"lng": 14.2799473
+	},
+	{
+	"name": "Square",
+	"region": "Lazio",
+	"province": 60,
+	"city": "Cassino",
+	"address": "Piazza Diaz 12",
+	"lat": 41.3952927,
+	"lng": 13.8960825
+	},
+	{
+	"name": "Fumetto Lamorgese",
+	"region": "Basilicata",
+	"province": 76,
+	"city": "Potenza",
+	"address": "Via Pretoria 248/250",
+	"lat": 40.6389164,
+	"lng": 15.8052647
+	},
+	{
+	"name": "Galleria Graffiti",
+	"region": "Puglia",
+	"province": 72,
+	"city": "Corato",
+	"address": "Via Ruvo 21",
+	"lat": 41.1513625,
+	"lng": 16.4176497
+	},
+	{
+	"name": "Gallery",
+	"region": "Campania",
+	"province": 65,
+	"city": "Nocera Inferiore",
+	"address": "Via G. Origa 37",
+	"lat": 40.7460596,
+	"lng": 14.6474887
+	},
+	{
+	"name": "Giugliano Uomo",
+	"region": "Campania",
+	"province": 63,
+	"city": "Nola",
+	"address": "C.so Tommaso Vitale 132",
+	"lat": 40.9243631,
+	"lng": 14.5273867
+	},
+	{
+	"name": "Gruppo Clark",
+	"region": "Lazio",
+	"province": 58,
+	"city": "Roma",
+	"address": "Piazzale della Radio 85",
+	"lat": 41.8701296,
+	"lng": 12.4679318
+	},
+	{
+	"name": "Gruppo Clark",
+	"region": "Lazio",
+	"province": 58,
+	"city": "Monterotondo",
+	"address": "Via Salaria 221 E",
+	"lat": 42.0586715,
+	"lng": 12.5842785
+	},
+	{
+	"name": "Gruppo Clark",
+	"region": "Lazio",
+	"province": 58,
+	"city": "Fiumicino",
+	"address": "Parco Leonardo - Piazza M. Buonarroti 36/47",
+	"lat": 41.7993017,
+	"lng": 12.2954283
+	},
+	{
+	"name": "Inner",
+	"region": "Lombardia",
+	"province": 15,
+	"city": "Milano",
+	"address": "Via Pasquale Paoli, 4",
+	"lat": 45.450551,
+	"lng": 9.1716458
+	},
+	{
+	"name": "Julian Fashion",
+	"region": "Emilia Romagna",
+	"province": 39,
+	"city": "Milano Marittima",
+	"address": "Viale Matteotti 31",
+	"lat": 44.27846479999999,
+	"lng": 12.3480328
+	},
+	{
+	"name": "Kill Joy",
+	"region": "Campania",
+	"province": 65,
+	"city": "Nocera Inferiore",
+	"address": "Via Roma 10",
+	"lat": 40.7446758,
+	"lng": 14.6390999
+	},
+	{
+	"name": "La Ferramenta",
+	"region": "Emilia Romagna",
+	"province": 37,
+	"city": "Bologna",
+	"address": "Via delle Moline 16",
+	"lat": 44.49821679999999,
+	"lng": 11.3472351
+	},
+	{
+	"name": "Liliana Quaranta",
+	"region": "Puglia",
+	"province": 108,
+	"city": "Andria",
+	"address": "Via Regina Margherita 130",
+	"lat": 41.22815,
+	"lng": 16.30214
+	},
+	{
+	"name": "Manida",
+	"region": "Campania",
+	"province": 63,
+	"city": "Castellammare",
+	"address": "Corso Vittorio Emanuele",
+	"lat": 40.6990772,
+	"lng": 14.4827506
+	},
+	{
+	"name": "Mario d'Anna",
+	"region": "Campania",
+	"province": 61,
+	"city": "Caserta",
+	"address": "Via Mazzini 48",
+	"lat": 41.07403,
+	"lng": 14.3314041
+	},
+	{
+	"name": "Niba2A",
+	"region": "Umbria",
+	"province": 54,
+	"city": "Bastia Umbra",
+	"address": "Piazza Mazzini 1-2",
+	"lat": 43.0676612,
+	"lng": 12.5497075
+	},
+	{
+	"name": "Orlando Avellino",
+	"region": "Campania",
+	"province": 64,
+	"city": "Avellino",
+	"address": "Via Verdi 06-08-10",
+	"lat": 40.9140489,
+	"lng": 14.7879811
+	},
+	{
+	"name": "Particolari Semplici",
+	"region": "Campania",
+	"province": 63,
+	"city": "Casoria",
+	"address": "Via Achille Del giudice 40",
+	"lat": 40.8998296,
+	"lng": 14.2833527
+	},
+	{
+	"name": "Strike",
+	"region": "Campania",
+	"province": 63,
+	"city": "Napoli",
+	"address": "Piazza San Vitale 32/35",
+	"lat": 40.841534,
+	"lng": 14.1998153
+	},
+	{
+	"name": "Sicolo",
+	"region": "Basilicata",
+	"province": 77,
+	"city": "Matera",
+	"address": "Via XX Settembre 43",
+	"lat": 40.6687055,
+	"lng": 16.6060035
+	},
+	{
+	"name": "Traffic Multilab",
+	"region": "Campania",
+	"province": 63,
+	"city": "Napoli",
+	"address": "C.so Umberto I 141",
+	"lat": 40.8464013,
+	"lng": 14.2599834
+	},
+	{
+	"name": "Vela Shop",
+	"region": "Sardegna",
+	"province": 92,
+	"city": "Cagliari",
+	"address": "Via Rockfeller",
+	"lat": 39.2031841,
+	"lng": 9.136331499999999
+	},
+	{
+	"name": "Yes shop",
+	"region": "Campania",
+	"province": 63,
+	"city": "Napoli",
+	"address": "Via Cesare Rosaroll 8",
+	"lat": 40.8543266,
+	"lng": 14.2671336
+	}	
+]

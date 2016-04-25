@@ -1,0 +1,38 @@
+[
+	{
+	"name": "Menabo'",
+	"region": "Campania",
+	"province": 63,
+	"city": "Marigliano",
+	"address": "Corso Vittorio Emanuele 50-52",
+	"lat": 40.92347609999999,
+	"lng": 14.4557846
+	},
+	{
+	"name": "Stanzione",
+	"region": "Campania",
+	"province": 63,
+	"city": "Giugliano",
+	"address": "Via Salvatore Alende 15",
+	"lat": 40.92485,
+	"lng": 14.19993
+	},
+	{
+	"name": "World Store",
+	"region": "Campania",
+	"province": 63,
+	"city": "Torre del Greco",
+	"address": "Via Diego Colamarino 34",
+	"lat": 40.788603,
+	"lng": 14.3675691
+	},
+	{
+	"name": "Young Planet",
+	"region": "Campania",
+	"province": 63,
+	"city": "Volla",
+	"address": "Via Einaudi 106",
+	"lat": 40.877062,
+	"lng": 14.34164
+	}
+]

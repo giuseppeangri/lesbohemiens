@@ -1,0 +1,974 @@
+[
+	{
+	"id": 1,
+	"id_regione": 1,
+	"name": "Torino",
+	"stat_code": "001",
+	"abbreviation": "TO",
+	"weburl": "http://www.provincia.torino.it/",
+	"email": ""
+	},
+	{
+	"id": 2,
+	"id_regione": 1,
+	"name": "Vercelli",
+	"stat_code": "002",
+	"abbreviation": "VC",
+	"weburl": "http://www.provincia.vercelli.it/",
+	"email": ""
+	},
+	{
+	"id": 3,
+	"id_regione": 1,
+	"name": "Novara",
+	"stat_code": "003",
+	"abbreviation": "NO",
+	"weburl": "http://www.provincia.novara.it/",
+	"email": ""
+	},
+	{
+	"id": 4,
+	"id_regione": 1,
+	"name": "Cuneo",
+	"stat_code": "004",
+	"abbreviation": "CN",
+	"weburl": "http://www.provincia.cuneo.it/",
+	"email": ""
+	},
+	{
+	"id": 5,
+	"id_regione": 1,
+	"name": "Asti",
+	"stat_code": "005",
+	"abbreviation": "AT",
+	"weburl": "http://www.provincia.asti.it/",
+	"email": ""
+	},
+	{
+	"id": 6,
+	"id_regione": 1,
+	"name": "Alessandria",
+	"stat_code": "006",
+	"abbreviation": "AL",
+	"weburl": "http://www.provincia.alessandria.it/",
+	"email": ""
+	},
+	{
+	"id": 7,
+	"id_regione": 2,
+	"name": "Aosta",
+	"stat_code": "007",
+	"abbreviation": "AO",
+	"weburl": "http://www.regione.vda.it/",
+	"email": ""
+	},
+	{
+	"id": 8,
+	"id_regione": 7,
+	"name": "Imperia",
+	"stat_code": "008",
+	"abbreviation": "IM",
+	"weburl": "http://www.provincia.imperia.it/",
+	"email": ""
+	},
+	{
+	"id": 9,
+	"id_regione": 7,
+	"name": "Savona",
+	"stat_code": "009",
+	"abbreviation": "SV",
+	"weburl": "http://www.provincia.savona.it/",
+	"email": ""
+	},
+	{
+	"id": 10,
+	"id_regione": 7,
+	"name": "Genova",
+	"stat_code": "010",
+	"abbreviation": "GE",
+	"weburl": "http://www.provincia.genova.it/",
+	"email": ""
+	},
+	{
+	"id": 11,
+	"id_regione": 7,
+	"name": "La Spezia",
+	"stat_code": "011",
+	"abbreviation": "SP",
+	"weburl": "http://www.provincia.sp.it/",
+	"email": ""
+	},
+	{
+	"id": 12,
+	"id_regione": 3,
+	"name": "Varese",
+	"stat_code": "012",
+	"abbreviation": "VA",
+	"weburl": "http://www.provincia.va.it/",
+	"email": ""
+	},
+	{
+	"id": 13,
+	"id_regione": 3,
+	"name": "Como",
+	"stat_code": "013",
+	"abbreviation": "CO",
+	"weburl": "http://www.provincia.como.it/",
+	"email": ""
+	},
+	{
+	"id": 14,
+	"id_regione": 3,
+	"name": "Sondrio",
+	"stat_code": "014",
+	"abbreviation": "SO",
+	"weburl": "http://www.provincia.so.it/",
+	"email": ""
+	},
+	{
+	"id": 15,
+	"id_regione": 3,
+	"name": "Milano",
+	"stat_code": "015",
+	"abbreviation": "MI",
+	"weburl": "http://www.provincia.milano.it/",
+	"email": ""
+	},
+	{
+	"id": 16,
+	"id_regione": 3,
+	"name": "Bergamo",
+	"stat_code": "016",
+	"abbreviation": "BG",
+	"weburl": "http://www.provincia.bergamo.it/",
+	"email": ""
+	},
+	{
+	"id": 17,
+	"id_regione": 3,
+	"name": "Brescia",
+	"stat_code": "017",
+	"abbreviation": "BS",
+	"weburl": "http://www.provincia.brescia.it/",
+	"email": ""
+	},
+	{
+	"id": 18,
+	"id_regione": 3,
+	"name": "Pavia",
+	"stat_code": "018",
+	"abbreviation": "PV",
+	"weburl": "http://www.provincia.pv.it/",
+	"email": ""
+	},
+	{
+	"id": 19,
+	"id_regione": 3,
+	"name": "Cremona",
+	"stat_code": "019",
+	"abbreviation": "CR",
+	"weburl": "http://www.provincia.cremona.it/",
+	"email": ""
+	},
+	{
+	"id": 20,
+	"id_regione": 3,
+	"name": "Mantova",
+	"stat_code": "020",
+	"abbreviation": "MN",
+	"weburl": "http://www.provincia.mantova.it/",
+	"email": ""
+	},
+	{
+	"id": 21,
+	"id_regione": 4,
+	"name": "Bolzano",
+	"stat_code": "021",
+	"abbreviation": "BZ",
+	"weburl": "http://www.provinz.bz.it/",
+	"email": ""
+	},
+	{
+	"id": 22,
+	"id_regione": 4,
+	"name": "Trento",
+	"stat_code": "022",
+	"abbreviation": "TN",
+	"weburl": "http://www.provincia.tn.it/",
+	"email": ""
+	},
+	{
+	"id": 23,
+	"id_regione": 5,
+	"name": "Verona",
+	"stat_code": "023",
+	"abbreviation": "VR",
+	"weburl": "http://www.provincia.verona.it/",
+	"email": ""
+	},
+	{
+	"id": 24,
+	"id_regione": 5,
+	"name": "Vicenza",
+	"stat_code": "024",
+	"abbreviation": "VI",
+	"weburl": "http://www.provincia.vicenza.it/",
+	"email": ""
+	},
+	{
+	"id": 25,
+	"id_regione": 5,
+	"name": "Belluno",
+	"stat_code": "025",
+	"abbreviation": "BL",
+	"weburl": "http://www.provincia.belluno.it/",
+	"email": ""
+	},
+	{
+	"id": 26,
+	"id_regione": 5,
+	"name": "Treviso",
+	"stat_code": "026",
+	"abbreviation": "TV",
+	"weburl": "http://www.provincia.treviso.it/",
+	"email": ""
+	},
+	{
+	"id": 27,
+	"id_regione": 5,
+	"name": "Venezia",
+	"stat_code": "027",
+	"abbreviation": "VE",
+	"weburl": "http://www.provincia.venezia.it/",
+	"email": ""
+	},
+	{
+	"id": 28,
+	"id_regione": 5,
+	"name": "Padova",
+	"stat_code": "028",
+	"abbreviation": "PD",
+	"weburl": "http://www.provincia.padova.it/",
+	"email": ""
+	},
+	{
+	"id": 29,
+	"id_regione": 5,
+	"name": "Rovigo",
+	"stat_code": "029",
+	"abbreviation": "RO",
+	"weburl": "http://www.provincia.rovigo.it/",
+	"email": ""
+	},
+	{
+	"id": 30,
+	"id_regione": 6,
+	"name": "Udine",
+	"stat_code": "030",
+	"abbreviation": "UD",
+	"weburl": "http://www.provincia.udine.it/",
+	"email": ""
+	},
+	{
+	"id": 31,
+	"id_regione": 6,
+	"name": "Gorizia",
+	"stat_code": "031",
+	"abbreviation": "GO",
+	"weburl": "http://www.provincia.gorizia.it/",
+	"email": ""
+	},
+	{
+	"id": 32,
+	"id_regione": 6,
+	"name": "Trieste",
+	"stat_code": "032",
+	"abbreviation": "TS",
+	"weburl": "http://www.provincia.trieste.it/",
+	"email": ""
+	},
+	{
+	"id": 33,
+	"id_regione": 8,
+	"name": "Piacenza",
+	"stat_code": "033",
+	"abbreviation": "PC",
+	"weburl": "http://www.provincia.piacenza.it/",
+	"email": ""
+	},
+	{
+	"id": 34,
+	"id_regione": 8,
+	"name": "Parma",
+	"stat_code": "034",
+	"abbreviation": "PR",
+	"weburl": "http://www.provincia.parma.it/",
+	"email": ""
+	},
+	{
+	"id": 35,
+	"id_regione": 8,
+	"name": "Reggio Emilia",
+	"stat_code": "035",
+	"abbreviation": "RE",
+	"weburl": "http://www.provincia.re.it/",
+	"email": ""
+	},
+	{
+	"id": 36,
+	"id_regione": 8,
+	"name": "Modena",
+	"stat_code": "036",
+	"abbreviation": "MO",
+	"weburl": "http://www.provincia.modena.it/",
+	"email": ""
+	},
+	{
+	"id": 37,
+	"id_regione": 8,
+	"name": "Bologna",
+	"stat_code": "037",
+	"abbreviation": "BO",
+	"weburl": "http://www.provincia.bologna.it/",
+	"email": ""
+	},
+	{
+	"id": 38,
+	"id_regione": 8,
+	"name": "Ferrara",
+	"stat_code": "038",
+	"abbreviation": "FE",
+	"weburl": "http://www.provincia.fe.it/",
+	"email": ""
+	},
+	{
+	"id": 39,
+	"id_regione": 8,
+	"name": "Ravenna",
+	"stat_code": "039",
+	"abbreviation": "RA",
+	"weburl": "http://www.provincia.ra.it/",
+	"email": ""
+	},
+	{
+	"id": 40,
+	"id_regione": 8,
+	"name": "ForlÃƒÂ¬-Cesena",
+	"stat_code": "040",
+	"abbreviation": "FC",
+	"weburl": "http://www.provincia.forli-cesena.it/",
+	"email": ""
+	},
+	{
+	"id": 41,
+	"id_regione": 11,
+	"name": "Pesaro e Urbino",
+	"stat_code": "041",
+	"abbreviation": "PU",
+	"weburl": "http://www.provincia.pu.it/",
+	"email": ""
+	},
+	{
+	"id": 42,
+	"id_regione": 11,
+	"name": "Ancona",
+	"stat_code": "042",
+	"abbreviation": "AN",
+	"weburl": "http://www.provincia.ancona.it/",
+	"email": ""
+	},
+	{
+	"id": 43,
+	"id_regione": 11,
+	"name": "Macerata",
+	"stat_code": "043",
+	"abbreviation": "MC",
+	"weburl": "http://www.provincia.mc.it/",
+	"email": ""
+	},
+	{
+	"id": 44,
+	"id_regione": 11,
+	"name": "Ascoli Piceno",
+	"stat_code": "044",
+	"abbreviation": "AP",
+	"weburl": "http://www.provincia.ap.it/",
+	"email": ""
+	},
+	{
+	"id": 45,
+	"id_regione": 9,
+	"name": "Massa-Carrara",
+	"stat_code": "045",
+	"abbreviation": "MS",
+	"weburl": "http://www.provincia.ms.it/",
+	"email": ""
+	},
+	{
+	"id": 46,
+	"id_regione": 9,
+	"name": "Lucca",
+	"stat_code": "046",
+	"abbreviation": "LU",
+	"weburl": "http://www.provincia.lucca.it/",
+	"email": ""
+	},
+	{
+	"id": 47,
+	"id_regione": 9,
+	"name": "Pistoia",
+	"stat_code": "047",
+	"abbreviation": "PT",
+	"weburl": "http://www.provincia.pistoia.it/",
+	"email": ""
+	},
+	{
+	"id": 48,
+	"id_regione": 9,
+	"name": "Firenze",
+	"stat_code": "048",
+	"abbreviation": "FI",
+	"weburl": "http://www.provincia.fi.it/",
+	"email": ""
+	},
+	{
+	"id": 49,
+	"id_regione": 9,
+	"name": "Livorno",
+	"stat_code": "049",
+	"abbreviation": "LI",
+	"weburl": "http://www.provincia.livorno.it/",
+	"email": ""
+	},
+	{
+	"id": 50,
+	"id_regione": 9,
+	"name": "Pisa",
+	"stat_code": "050",
+	"abbreviation": "PI",
+	"weburl": "http://www.provincia.pisa.it/",
+	"email": ""
+	},
+	{
+	"id": 51,
+	"id_regione": 9,
+	"name": "Arezzo",
+	"stat_code": "051",
+	"abbreviation": "AR",
+	"weburl": "http://www.provincia.arezzo.it/",
+	"email": ""
+	},
+	{
+	"id": 52,
+	"id_regione": 9,
+	"name": "Siena",
+	"stat_code": "052",
+	"abbreviation": "SI",
+	"weburl": "http://www.provincia.siena.it/",
+	"email": ""
+	},
+	{
+	"id": 53,
+	"id_regione": 9,
+	"name": "Grosseto",
+	"stat_code": "053",
+	"abbreviation": "GR",
+	"weburl": "http://www.provincia.grosseto.it/",
+	"email": ""
+	},
+	{
+	"id": 54,
+	"id_regione": 10,
+	"name": "Perugia",
+	"stat_code": "054",
+	"abbreviation": "PG",
+	"weburl": "http://www.provincia.perugia.it/",
+	"email": ""
+	},
+	{
+	"id": 55,
+	"id_regione": 10,
+	"name": "Terni",
+	"stat_code": "055",
+	"abbreviation": "TR",
+	"weburl": "http://www.provincia.terni.it/",
+	"email": ""
+	},
+	{
+	"id": 56,
+	"id_regione": 12,
+	"name": "Viterbo",
+	"stat_code": "056",
+	"abbreviation": "VT",
+	"weburl": "http://www.provincia.vt.it/",
+	"email": ""
+	},
+	{
+	"id": 57,
+	"id_regione": 12,
+	"name": "Rieti",
+	"stat_code": "057",
+	"abbreviation": "RI",
+	"weburl": "http://www.provincia.rieti.it/",
+	"email": ""
+	},
+	{
+	"id": 58,
+	"id_regione": 12,
+	"name": "Roma",
+	"stat_code": "058",
+	"abbreviation": "RM",
+	"weburl": "http://www.provincia.roma.it/",
+	"email": ""
+	},
+	{
+	"id": 59,
+	"id_regione": 12,
+	"name": "Latina",
+	"stat_code": "059",
+	"abbreviation": "LT",
+	"weburl": "http://www.provincia.latina.it/",
+	"email": ""
+	},
+	{
+	"id": 60,
+	"id_regione": 12,
+	"name": "Frosinone",
+	"stat_code": "060",
+	"abbreviation": "FR",
+	"weburl": "http://www.provincia.fr.it/",
+	"email": ""
+	},
+	{
+	"id": 61,
+	"id_regione": 15,
+	"name": "Caserta",
+	"stat_code": "061",
+	"abbreviation": "CE",
+	"weburl": "http://www.provincia.caserta.it/",
+	"email": ""
+	},
+	{
+	"id": 62,
+	"id_regione": 15,
+	"name": "Benevento",
+	"stat_code": "062",
+	"abbreviation": "BN",
+	"weburl": "http://www.provincia.benevento.it/",
+	"email": ""
+	},
+	{
+	"id": 63,
+	"id_regione": 15,
+	"name": "Napoli",
+	"stat_code": "063",
+	"abbreviation": "NA",
+	"weburl": "http://www.provincia.napoli.it/",
+	"email": ""
+	},
+	{
+	"id": 64,
+	"id_regione": 15,
+	"name": "Avellino",
+	"stat_code": "064",
+	"abbreviation": "AV",
+	"weburl": "http://www.provincia.avellino.it/",
+	"email": ""
+	},
+	{
+	"id": 65,
+	"id_regione": 15,
+	"name": "Salerno",
+	"stat_code": "065",
+	"abbreviation": "SA",
+	"weburl": "http://www.provincia.salerno.it/",
+	"email": ""
+	},
+	{
+	"id": 66,
+	"id_regione": 13,
+	"name": "L'Aquila",
+	"stat_code": "066",
+	"abbreviation": "AQ",
+	"weburl": "http://www.provincia.laquila.it/",
+	"email": ""
+	},
+	{
+	"id": 67,
+	"id_regione": 13,
+	"name": "Teramo",
+	"stat_code": "067",
+	"abbreviation": "TE",
+	"weburl": "http://www.provincia.teramo.it/",
+	"email": ""
+	},
+	{
+	"id": 68,
+	"id_regione": 13,
+	"name": "Pescara",
+	"stat_code": "068",
+	"abbreviation": "PE",
+	"weburl": "http://www.provincia.pescara.it/",
+	"email": ""
+	},
+	{
+	"id": 69,
+	"id_regione": 13,
+	"name": "Chieti",
+	"stat_code": "069",
+	"abbreviation": "CH",
+	"weburl": "http://www.provincia.chieti.it/",
+	"email": ""
+	},
+	{
+	"id": 70,
+	"id_regione": 14,
+	"name": "Campobasso",
+	"stat_code": "070",
+	"abbreviation": "CB",
+	"weburl": "http://www.provincia.campobasso.it/",
+	"email": ""
+	},
+	{
+	"id": 71,
+	"id_regione": 16,
+	"name": "Foggia",
+	"stat_code": "071",
+	"abbreviation": "FG",
+	"weburl": "http://www.provincia.foggia.it/",
+	"email": ""
+	},
+	{
+	"id": 72,
+	"id_regione": 16,
+	"name": "Bari",
+	"stat_code": "072",
+	"abbreviation": "BA",
+	"weburl": "http://www.provincia.ba.it/",
+	"email": ""
+	},
+	{
+	"id": 73,
+	"id_regione": 16,
+	"name": "Taranto",
+	"stat_code": "073",
+	"abbreviation": "TA",
+	"weburl": "http://www.provincia.taranto.it/",
+	"email": ""
+	},
+	{
+	"id": 74,
+	"id_regione": 16,
+	"name": "Brindisi",
+	"stat_code": "074",
+	"abbreviation": "BR",
+	"weburl": "http://www.provincia.brindisi.it/",
+	"email": ""
+	},
+	{
+	"id": 75,
+	"id_regione": 16,
+	"name": "Lecce",
+	"stat_code": "075",
+	"abbreviation": "LE",
+	"weburl": "http://www.provincia.le.it/",
+	"email": ""
+	},
+	{
+	"id": 76,
+	"id_regione": 17,
+	"name": "Potenza",
+	"stat_code": "076",
+	"abbreviation": "PZ",
+	"weburl": "http://www.provincia.potenza.it/",
+	"email": ""
+	},
+	{
+	"id": 77,
+	"id_regione": 17,
+	"name": "Matera",
+	"stat_code": "077",
+	"abbreviation": "MT",
+	"weburl": "http://www.provincia.matera.it/",
+	"email": ""
+	},
+	{
+	"id": 78,
+	"id_regione": 18,
+	"name": "Cosenza",
+	"stat_code": "078",
+	"abbreviation": "CS",
+	"weburl": "http://www.provincia.cosenza.it/",
+	"email": ""
+	},
+	{
+	"id": 79,
+	"id_regione": 18,
+	"name": "Catanzaro",
+	"stat_code": "079",
+	"abbreviation": "CZ",
+	"weburl": "http://www.provincia.catanzaro.it/",
+	"email": ""
+	},
+	{
+	"id": 80,
+	"id_regione": 18,
+	"name": "Reggio Calabria",
+	"stat_code": "080",
+	"abbreviation": "RC",
+	"weburl": "http://www.provincia.rc.it/",
+	"email": ""
+	},
+	{
+	"id": 81,
+	"id_regione": 19,
+	"name": "Trapani",
+	"stat_code": "081",
+	"abbreviation": "TP",
+	"weburl": "http://www.provincia.trapani.it/",
+	"email": ""
+	},
+	{
+	"id": 82,
+	"id_regione": 19,
+	"name": "Palermo",
+	"stat_code": "082",
+	"abbreviation": "PA",
+	"weburl": "http://www.provincia.palermo.it/",
+	"email": ""
+	},
+	{
+	"id": 83,
+	"id_regione": 19,
+	"name": "Messina",
+	"stat_code": "083",
+	"abbreviation": "ME",
+	"weburl": "http://www.provincia.messina.it/",
+	"email": ""
+	},
+	{
+	"id": 84,
+	"id_regione": 19,
+	"name": "Agrigento",
+	"stat_code": "084",
+	"abbreviation": "AG",
+	"weburl": "http://www.provincia.agrigento.it/",
+	"email": ""
+	},
+	{
+	"id": 85,
+	"id_regione": 19,
+	"name": "Caltanissetta",
+	"stat_code": "085",
+	"abbreviation": "CL",
+	"weburl": "http://www.provincia.cl.it/",
+	"email": ""
+	},
+	{
+	"id": 86,
+	"id_regione": 19,
+	"name": "Enna",
+	"stat_code": "086",
+	"abbreviation": "EN",
+	"weburl": "http://www.provincia.enna.it/",
+	"email": ""
+	},
+	{
+	"id": 87,
+	"id_regione": 19,
+	"name": "Catania",
+	"stat_code": "087",
+	"abbreviation": "CT",
+	"weburl": "http://www.provincia.catania.it/",
+	"email": ""
+	},
+	{
+	"id": 88,
+	"id_regione": 19,
+	"name": "Ragusa",
+	"stat_code": "088",
+	"abbreviation": "RG",
+	"weburl": "http://www.provincia.ragusa.it/",
+	"email": ""
+	},
+	{
+	"id": 89,
+	"id_regione": 19,
+	"name": "Siracusa",
+	"stat_code": "089",
+	"abbreviation": "SR",
+	"weburl": "http://www.provincia.siracusa.it/",
+	"email": ""
+	},
+	{
+	"id": 90,
+	"id_regione": 20,
+	"name": "Sassari",
+	"stat_code": "090",
+	"abbreviation": "SS",
+	"weburl": "http://www.provincia.sassari.it/",
+	"email": ""
+	},
+	{
+	"id": 91,
+	"id_regione": 20,
+	"name": "Nuoro",
+	"stat_code": "091",
+	"abbreviation": "NU",
+	"weburl": "http://www.provincia.nuoro.it/",
+	"email": ""
+	},
+	{
+	"id": 92,
+	"id_regione": 20,
+	"name": "Cagliari",
+	"stat_code": "092",
+	"abbreviation": "CA",
+	"weburl": "http://www.provincia.cagliari.it/",
+	"email": ""
+	},
+	{
+	"id": 93,
+	"id_regione": 6,
+	"name": "Pordenone",
+	"stat_code": "093",
+	"abbreviation": "PN",
+	"weburl": "http://www.provincia.pordenone.it/",
+	"email": ""
+	},
+	{
+	"id": 94,
+	"id_regione": 14,
+	"name": "Isernia",
+	"stat_code": "094",
+	"abbreviation": "IS",
+	"weburl": "http://www.provincia.isernia.it/",
+	"email": ""
+	},
+	{
+	"id": 95,
+	"id_regione": 20,
+	"name": "Oristano",
+	"stat_code": "095",
+	"abbreviation": "OR",
+	"weburl": "http://www.provincia.or.it/",
+	"email": ""
+	},
+	{
+	"id": 96,
+	"id_regione": 1,
+	"name": "Biella",
+	"stat_code": "096",
+	"abbreviation": "BI",
+	"weburl": "http://www.provincia.biella.it/",
+	"email": ""
+	},
+	{
+	"id": 97,
+	"id_regione": 3,
+	"name": "Lecco",
+	"stat_code": "097",
+	"abbreviation": "LC",
+	"weburl": "http://www.provincia.lecco.it/",
+	"email": ""
+	},
+	{
+	"id": 98,
+	"id_regione": 3,
+	"name": "Lodi",
+	"stat_code": "098",
+	"abbreviation": "LO",
+	"weburl": "http://www.provincia.lodi.it/",
+	"email": ""
+	},
+	{
+	"id": 99,
+	"id_regione": 8,
+	"name": "Rimini",
+	"stat_code": "099",
+	"abbreviation": "RN",
+	"weburl": "http://www.provincia.rimini.it/",
+	"email": ""
+	},
+	{
+	"id": 100,
+	"id_regione": 9,
+	"name": "Prato",
+	"stat_code": "100",
+	"abbreviation": "PO",
+	"weburl": "http://www.provincia.prato.it/",
+	"email": ""
+	},
+	{
+	"id": 101,
+	"id_regione": 18,
+	"name": "Crotone",
+	"stat_code": "101",
+	"abbreviation": "KR",
+	"weburl": "http://www.provincia.crotone.it/",
+	"email": ""
+	},
+	{
+	"id": 102,
+	"id_regione": 18,
+	"name": "Vibo Valentia",
+	"stat_code": "102",
+	"abbreviation": "VV",
+	"weburl": "http://www.provincia.vibovalentia.it/",
+	"email": ""
+	},
+	{
+	"id": 103,
+	"id_regione": 1,
+	"name": "Verbano-Cusio-Ossola",
+	"stat_code": "103",
+	"abbreviation": "VB",
+	"weburl": "http://www.provincia.verbania.it/",
+	"email": ""
+	},
+	{
+	"id": 104,
+	"id_regione": 20,
+	"name": "Olbia-Tempio",
+	"stat_code": "104",
+	"abbreviation": "OT",
+	"weburl": "",
+	"email": ""
+	},
+	{
+	"id": 105,
+	"id_regione": 20,
+	"name": "Ogliastra",
+	"stat_code": "105",
+	"abbreviation": "OG",
+	"weburl": "http://www.provincia.ogliastra.it/",
+	"email": ""
+	},
+	{
+	"id": 106,
+	"id_regione": 20,
+	"name": "Medio Campidano",
+	"stat_code": "106",
+	"abbreviation": "VS",
+	"weburl": "http://www.provincia.mediocampidano.it/",
+	"email": ""
+	},
+	{
+	"id": 107,
+	"id_regione": 20,
+	"name": "Carbonia-Iglesias",
+	"stat_code": "107",
+	"abbreviation": "CI",
+	"weburl": "http://www.provincia.carboniaiglesias.it/",
+	"email": ""
+	},
+	{
+	"id": 108,
+	"id_regione": 16,
+	"name": "Barletta-Andria-Trani",
+	"stat_code": "108",
+	"abbreviation": "BAT",
+	"weburl": "www.provincia.barletta-andria-trani.it/",
+	"email": ""
+	}
+]
