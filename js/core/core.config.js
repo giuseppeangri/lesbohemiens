@@ -87,9 +87,9 @@
 		
 	}
 	
-	run.$inject = ['$rootScope', '$location'];	
+	run.$inject = ['$route', '$rootScope', '$location'];	
 	
-	function run($rootScope, $location) {
+	function run($route, $rootScope, $location) {
 		
 		$rootScope.firstOpen = true;
 		
