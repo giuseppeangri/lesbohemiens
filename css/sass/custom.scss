@@ -45,13 +45,13 @@
 		$home-shadow-h-xs : 120px;
 		$home-shadow-h-s : 200px;
 		
-		$home-social-h-xs : 180px;
-		$home-social-h-s : 250px;
-		$home-social-h-l : 400px;
+		$home-social-h-xs : 110px;
+		$home-social-h-s : 130px;
+		$home-social-h-l : 200px;
 		
-		$home-socialitem-w-xs : 80px;
-		$home-socialitem-w-m : 100px;
-		$home-socialitem-w-l : 145px;
+		$home-socialitem-w-xs : 55px;
+		$home-socialitem-w-m : 65px;
+		$home-socialitem-w-l : 100px;
 		
 	// MAN/WOMAN PAGE
 	
@@ -405,6 +405,7 @@ figure.figure-center {
 	width: 100%; 
 	background-position: center top; 
 	background-size: cover;
+	background-color: black;
 }
 
 .scrollable-list{
