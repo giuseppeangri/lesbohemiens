@@ -1,0 +1,90 @@
+<div fullscreen class="container-full-screen container-form" >
+	
+	<div class="container">
+	
+	    <form novalidate name="contact_form" class="well form-horizontal" action=" " method="post"  id="contact_form" ng-submit="submitForm()">
+	<fieldset>
+	
+	<!-- Form Name -->
+	<legend>
+	Contact Us </br>
+	<p>We will respond to every e-mail within 24 hours</p>
+	</legend>
+	
+	<p>Items marked with * are required.</p>
+	<!-- Text input-->
+	
+	<div class="form-group">
+	  <label class="col-md-3  control-label">First Name: *</label>  
+	  <div class="col-md-6  inputGroupContainer">
+	  <div class="input-group">
+	  <input  name="first_name" placeholder="First Name" class="form-control"  type="text" ng-model="user.name" ng-maxlength="500" required ng-model-options="{ updateOn: 'blur' }">
+		  <div ng-show="contact_form.$submitted || contact_form.first_name.$touched">
+	      <div ng-show="contact_form.first_name.$error.required">Tell us your name</div>
+	      </div>
+	  </div>
+	  </div>
+	</div>
+	
+	<!-- Text input-->
+	
+	<div class="form-group">
+	  <label class="col-md-3  control-label" >Last Name: *</label> 
+	    <div class="col-md-6  inputGroupContainer">
+	    <div class="input-group">
+	    <input name="last_name" placeholder="Last Name" class="form-control"  type="text" ng-model="user.surname" ng-maxlength="500" required ng-model-options="{ updateOn: 'blur' }">
+		    <div ng-show="contact_form.$submitted || contact_form.last_name.$touched">
+		    <div ng-show="contact_form.last_name.$error.required">Tell us your name</div>
+		    </div>
+	    </div>
+	  </div>
+	</div>
+	
+	<!-- Text input-->
+	       <div class="form-group">
+	  <label class="col-md-3  control-label">E-Mail: *</label>  
+	    <div class="col-md-6  inputGroupContainer">
+	    <div class="input-group">
+	  <input name="Email" placeholder="E-Mail Address" class="form-control"  type="email" ng-model="user.email" ng-maxlength="500" required ng-model-options="{ updateOn: 'blur' }">
+		  <div ng-show="contact_form.$submitted || contact_form.Email.$touched">
+	      <span ng-show="contact_form.Email.$error.required">Tell us your email</span>
+	      <span ng-show="contact_form.Email.$error.email">This is not a valid email</span>
+	      </div>
+	    </div>
+	  </div>
+	</div>
+
+	<!-- Text area -->
+	  
+	<div class="form-group">
+	  <label class="col-md-3  control-label">Message: *</label>
+	    <div class="col-md-6  inputGroupContainer">
+	    <div class="input-group">
+		<textarea name="message" class="form-control" name="comment" placeholder="Message" type="text" ng-model="user.message" ng-maxlength="10000" required ng-model-options="{ updateOn: 'blur' }"></textarea>
+			<div ng-show="contact_form.$submitted || contact_form.message.$touched">
+		    <span ng-show="contact_form.message.$error.required">Write your request</span>
+			<span ng-show="contact_form.message.$error.maxlength">Your message is too long</span>		    
+			</div>
+	
+	  </div>
+	  </div>
+	</div>
+	
+	<!-- Success message -->
+	<div class="alert alert-success" role="alert" id="success_message">Success <i class="glyphicon glyphicon-thumbs-up"></i> Thanks for contacting us, we will get back to you shortly.</div>
+	
+	<!-- Button -->
+	<div class="form-group">
+	  <label class="col-md-3  control-label"></label>
+	  <div class="col-md-6 ">
+	    <button type="submit" class="btn btn-warning" ng-disabled="contact_form.$invalid">Send</button>
+	  </div>
+	</div>
+	
+	</fieldset>
+	</form>
+	
+	
+	</div>
+	    </div><!-- /.container -->
+</div>
