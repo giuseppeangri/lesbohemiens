@@ -79,6 +79,11 @@
 				controller		: 'StoreLocatorController',
 				controllerAs	: 'StoreLocatorCtrl'
 			})
+			.when('/contactus', {
+				templateUrl 	: baseUrl + 'contactus.html',
+				controller		: 'ContactController',
+				controllerAs	: 'ContactCtrl'
+			})
 			.otherwise({
 	      redirectTo		: '/home'
 	    });
