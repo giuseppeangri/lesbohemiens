@@ -69,6 +69,10 @@
 				{
 					name	: 'Store Locator',
 					url 	: 'storelocator'
+				},
+				{
+					name	: 'Contact Us',
+					url 	: 'contactus'
 				}
 			];
 			
