@@ -61,6 +61,12 @@
 		$man-description-size-l : 30px;
 		
 		$man-shadow-h-xs : 320px;
+		
+	// CONTACTUS
+		$margin-top-xs : 50px;
+		$margin-top-s : 80px;
+		$margin-top-m : 80px;
+		$margin-top-l : 80px;
 
 /////////////////////////////////////////////////////////////////////////////////////
 // COMMON
@@ -519,6 +525,61 @@ figure.figure-center {
 	appearance: none;
 }
 
+
+
+/////////////////////////////////////////////////////////////////////////////////////
+// CONTACTUS
+/////////////////////////////////////////////////////////////////////////////////////
+
+#success_message{ display: none;}
+
+#contact_form{
+	margin-top: $margin-top-xs;
+	background-color: white;
+	border: none;
+	box-shadow: none;
+	-webkit-box-shadow:none;	
+}
+
+.container-form{
+	overflow-x: hidden;
+	overflow-y: auto;
+}
+
+.inputGroupContainer{
+	z-index: 0;
+}
+
+.input-group{
+	width: 100%;
+}
+
+.btn{
+	color: black;
+	background-color: white;
+	border-color: black;	
+}
+
+.btn:hover{
+	color: white;
+	background-color: black;
+	border-color: white;
+}
+
+legend{
+	p{
+		font-size: 18px;
+	}
+}
+
+#contact_form input.ng-invalid.ng-touched, textarea.ng-invalid.ng-touched{
+    background-color: #FA787E;
+  }
+
+#contact_form input.ng-valid.ng-touched, textarea.ng-valid.ng-touched{
+    background-color: #78FA89;
+  }
+
 /////////////////////////////////////////////////////////////////////////////////////
 // TABLET (S)
 /////////////////////////////////////////////////////////////////////////////////////
@@ -576,9 +637,17 @@ figure.figure-center {
 	.map-canvas{
 		height: 480px;
 	}
+	
+	
+	///////////////////////////////////
+	// CONTACTUS
+	///////////////////////////////////
 
+
+	#contact_form{
+		margin-top: $margin-top-s;
+	}
 }
-
 /////////////////////////////////////////////////////////////////////////////////////
 // DESKTOP (M)
 /////////////////////////////////////////////////////////////////////////////////////
@@ -812,8 +881,18 @@ figure.figure-center {
 		height: 600px;
 	}
 	
-}
 
+
+	///////////////////////////////////
+	// CONTACTUS
+	///////////////////////////////////
+
+
+	#contact_form{
+		margin-top: $margin-top-m;
+	}
+
+}
 /////////////////////////////////////////////////////////////////////////////////////
 // LARGE DESKTOP (L)
 /////////////////////////////////////////////////////////////////////////////////////
@@ -909,6 +988,17 @@ figure.figure-center {
 		height: 600px;
 	}
 		
+
+
+	///////////////////////////////////
+	// CONTACTUS
+	///////////////////////////////////
+
+
+	#contact_form{
+		margin-top: $margin-top-l;
+	}
+	
 }
 
 /////////////////////////////////////////////////////////////////////////////////////
