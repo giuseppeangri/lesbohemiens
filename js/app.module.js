@@ -10,7 +10,7 @@
 			'app.home',
 			'app.man',
 			'app.woman',
-			'app.store_italia',
+			'app.italia',
 			'app.storelocator',
 			'app.aboutus',
 			'app.contact',

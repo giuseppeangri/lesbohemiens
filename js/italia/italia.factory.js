@@ -3,7 +3,7 @@
 	'use strict';
 	
 	angular
-		.module('app.store_italia')
+		.module('app.italia')
 		.factory('Italia', ItaliaFactory);
 		
 	ItaliaFactory.$inject = ['$http'];
