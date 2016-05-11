@@ -1,0 +1,33 @@
+
+			<div fullscreen class="container-full-screen">
+				
+				<div style="height: 45%; overflow: hidden;">
+					<figure class="figure-center">
+						<div ng-animate-swap="currentItem" class="img-center fig-an" ng-style="{ 'background-image' : 'url('+currentItem.img+')' }"></div>								
+					</figure>
+				</div>
+				
+				<div style="height: 55%;">
+					
+					<div class="row" style="height: 100%; border-bottom: dotted 1px black;">
+						
+						<div class="col-md-4 padding-30" style="height: 100%; text-align: center; border-right: dotted 1px black;">
+							
+							<div style="height: 100%; overflow-y: scroll;">
+								<h2 ng-repeat="item in items" ng-click="AboutUsCtrl.changeItem($index)" ng-class=" $index==currentIndex ? 'opacity-10' : 'opacity-05' ">{{item.title}}</h2>
+							</div>
+				
+						</div>
+						
+						<div class="col-md-8 padding-30" style="height: 100%;">
+							
+							<span style="font-size: x-large; color: black; display: inline-block; height: 100%; overflow-y: scroll;"
+							 ng-bind-html="currentItem.content"></span>
+							
+						</div>
+						
+					</div>
+					
+				</div>
+						
+			</div>
