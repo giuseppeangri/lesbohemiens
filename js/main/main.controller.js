@@ -67,8 +67,20 @@
 					]
 				},
 				{
+					name	: 'About Us',
+					url 	: 'aboutus'
+				},
+				{
+					name	: 'Press',
+					url 	: 'press'
+				},
+				{
 					name	: 'Store Locator',
 					url 	: 'storelocator'
+				},
+				{
+					name	: 'Contact Us',
+					url 	: 'contactus'
 				}
 			];
 			
