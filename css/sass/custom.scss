@@ -200,9 +200,46 @@ figure.figure-center {
     
 }
 
+.opacity-05 {
+	opacity: 0.5;
+}
+
+.opacity-10 {
+	opacity: 1.0;
+}
+
 /////////////////////////////////////////////////////////////////////////////////////
 // MOBILE (XS)
 /////////////////////////////////////////////////////////////////////////////////////
+
+	.fig-an {
+		opacity: 0;
+		
+		
+		animation: fadeinmenu 1s ease-in 0s forwards;
+	  -moz-animation: fadeinmenu 1s ease-in 0s forwards;
+	  -webkit-animation: fadeinmenu 1s ease-in 0s forwards;
+	  -o-animation: fadeinmenu 1s ease-in 0s forwards;
+		
+	}
+	
+/*
+.swap-animation.ng-enter, .swap-animation.ng-leave {
+	transition:2s linear all;
+}
+.swap-animation.ng-enter {
+  top:-250px;
+}
+.swap-animation.ng-enter-active {
+  top:0px;
+}
+.swap-animation.ng-leave {
+  top:0px;
+}
+.swap-animation.ng-leave-active {
+  top:250px;
+}
+*/
 
 ///////////////////////////////////
 // COMMON

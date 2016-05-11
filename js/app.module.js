@@ -12,6 +12,7 @@
 			'app.woman',
 			'app.store_italia',
 			'app.storelocator',
+			'app.aboutus',
 		]);
 	
 })();
