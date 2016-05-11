@@ -125,6 +125,7 @@
 		<script src="bower_components/angular-resource/angular-resource.min.js"></script>
 		<script src="bower_components/angular-route/angular-route.min.js"></script>
 		<script src="bower_components/angular-animate/angular-animate.min.js"></script>
+		<script src="bower_components/angular-sanitize/angular-sanitize.min.js"></script>
 		<script src="bower_components/angular-i18n/angular-locale_it-it.js"></script>
 		<script src="bower_components/angular-media-queries/match-media.js"></script>
 		<script src="bower_components/angular-bootstrap/ui-bootstrap.min.js"></script>
@@ -144,14 +145,17 @@
 		<script src="js/home/home.module.js"></script>
 		<script src="js/home/home.controller.js"></script>
 		
+		<script src="js/aboutus/aboutus.module.js"></script>
+		<script src="js/aboutus/aboutus.controller.js"></script>
+		
 		<script src="js/man/man.module.js"></script>
 		<script src="js/man/man.controller.js"></script>
 
 		<script src="js/woman/woman.module.js"></script>
 		<script src="js/woman/woman.controller.js"></script>
 		
-		<script src="js/store_italia/store_italia.module.js"></script>
-		<script src="js/store_italia/store_italia.factory.js"></script>
+		<script src="js/italia/italia.module.js"></script>
+		<script src="js/italia/italia.factory.js"></script>
 		
 		<script src="js/storelocator/storelocator.module.js"></script>
 		<script src="js/storelocator/storelocator.controller.js"></script>
