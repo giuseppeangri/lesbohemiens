@@ -26,6 +26,28 @@
 				controller		: 'HomeController',
 				controllerAs	: 'HomeCtrl'
 			})
+			.when('/aboutus', {
+				templateUrl 	: baseUrl + 'aboutus.html',
+				controller		: 'AboutUsController',
+				controllerAs	: 'AboutUsCtrl'
+			})
+			.when('/press', {
+				templateUrl 	: baseUrl + 'press.html',
+/*
+				controller		: 'StoreLocatorController',
+				controllerAs	: 'StoreLocatorCtrl'
+*/
+			})
+			.when('/storelocator', {
+				templateUrl 	: baseUrl + 'storelocator.html',
+				controller		: 'StoreLocatorController',
+				controllerAs	: 'StoreLocatorCtrl'
+			})
+			.when('/contact', {
+				templateUrl 	: baseUrl + 'contact.html',
+				controller		: 'StoreLocatorController',
+				controllerAs	: 'StoreLocatorCtrl'
+			})
 			.when('/man/ss15', {
 				templateUrl 	: baseUrl + 'man.html',
 				controller		: 'ManController',
@@ -73,11 +95,6 @@
 				resolve 			: {
 					collection	: function() { return 'ss16'; }
 				}
-			})
-			.when('/storelocator', {
-				templateUrl 	: baseUrl + 'storelocator.html',
-				controller		: 'StoreLocatorController',
-				controllerAs	: 'StoreLocatorCtrl'
 			})
 			.otherwise({
 	      redirectTo		: '/home'
