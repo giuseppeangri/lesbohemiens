@@ -13,6 +13,7 @@
 			'app.store_italia',
 			'app.storelocator',
 			'app.aboutus',
+			'app.contact',
 		]);
 	
 })();

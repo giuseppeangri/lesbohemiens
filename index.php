@@ -159,6 +159,9 @@
 		
 		<script src="js/storelocator/storelocator.module.js"></script>
 		<script src="js/storelocator/storelocator.controller.js"></script>
+		
+		<script src="js/contactus/contact.module.js"></script>
+		<script src="js/contactus/contact.controller.js"></script>
 				
 	</body>
 

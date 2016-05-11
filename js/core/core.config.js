@@ -43,10 +43,10 @@
 				controller		: 'StoreLocatorController',
 				controllerAs	: 'StoreLocatorCtrl'
 			})
-			.when('/contact', {
-				templateUrl 	: baseUrl + 'contact.html',
-				controller		: 'StoreLocatorController',
-				controllerAs	: 'StoreLocatorCtrl'
+			.when('/contactus', {
+				templateUrl 	: baseUrl + 'contactus.html',
+				controller		: 'ContactController',
+				controllerAs	: 'ContactCtrl'
 			})
 			.when('/man/ss15', {
 				templateUrl 	: baseUrl + 'man.html',
