@@ -7,6 +7,7 @@
 			'ngRoute',
 			'ngResource',
 			'ngAnimate',
+			'ngSanitize'
 		]);
 	
 })();
