@@ -1,5 +1,5 @@
 # lesbohemiens
-Web sites for a clothing company
+Website designed and developed for a Luxury Clothing company.
 
 Technologies Used:
 
